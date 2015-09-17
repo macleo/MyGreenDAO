@@ -43,6 +43,11 @@ public class NoteActivity extends ListActivity implements AdapterView.OnItemLong
     private PopupWindow mPopupWindow = null;
     private SimpleCursorAdapter adapter = null;
     private Context mContext = null;
+
+    private EditText et_content;
+    private TextView tv_origin;
+    private Button btn_sure;
+    
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -156,9 +161,6 @@ public class NoteActivity extends ListActivity implements AdapterView.OnItemLong
     }
 
 
-    private EditText et_content;
-    private TextView tv_origin;
-    private Button btn_sure;
     /**
      * 点击more触发的方法，弹出显示所有年级学科
      * @param view
