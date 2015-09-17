@@ -47,7 +47,7 @@ public class NoteActivity extends ListActivity implements AdapterView.OnItemLong
     private EditText et_content;
     private TextView tv_origin;
     private Button btn_sure;
-    
+
     @Override
     public void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);

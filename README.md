@@ -52,7 +52,8 @@ new DaoGenerator().generateAll(schema, ".../MyGreenDAO/app/src/main/java-gen");
 # Documentation
 
 项目主页：[ORM 框架之 greenDAO 使用心得](http://itangqi.me/2015/07/26/using-greendao-experience/)  
-
+好像上面的错了吧？汤奇？
+应该是：[greenDAO 使用心得](http://itangqi.me/2015/07/26/orm-greendao-summary/)
 # Thanks to
 
 再次感谢：[greenDAO](https://github.com/greenrobot/greenDAO)  
