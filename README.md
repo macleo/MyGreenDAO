@@ -15,7 +15,7 @@ MyGreenDAO 是我在学习使用 ORM 框架 greenDAO 时在官方提供的 Examp
   - [Documentation](#documentation)
   - [Thanks to](#thanks-to)
   - [Contact Me](#contact-me)
-  - [Modified] (#Modified)
+  - [Modified] (#modified)
   - [License](#license)
 
 # Usage
