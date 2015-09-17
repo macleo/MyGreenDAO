@@ -62,6 +62,9 @@ new DaoGenerator().generateAll(schema, ".../MyGreenDAO/app/src/main/java-gen");
 - Gmail：[imtangqi#gmail.com](mailto:imtangqi@gmail.com "欢迎与我联系")
 - Blog: [http://itangqi.me](http://itangqi.me)  
 
+
+- modified ： macleo
+- Gmail ： [imtangqi#gmail.com](mailto:52macleo@gmail.com "欢迎与我联系")
 # License
 
 <pre>
