@@ -15,6 +15,7 @@ MyGreenDAO 是我在学习使用 ORM 框架 greenDAO 时在官方提供的 Examp
   - [Documentation](#documentation)
   - [Thanks to](#thanks-to)
   - [Contact Me](#contact-me)
+  - [Modifed] (#Modified)
   - [License](#license)
 
 # Usage
@@ -62,9 +63,13 @@ new DaoGenerator().generateAll(schema, ".../MyGreenDAO/app/src/main/java-gen");
 - Gmail：[imtangqi#gmail.com](mailto:imtangqi@gmail.com "欢迎与我联系")
 - Blog: [http://itangqi.me](http://itangqi.me)  
 
+# Modified
+从作者那里clone下来，没法运行，fork一下加入lib，自行研究研究了
 
 - modified ： macleo
-- Gmail ： [imtangqi#gmail.com](mailto:52macleo@gmail.com "欢迎与我联系")
+- Gmail ： [52macleo#gmail.com](mailto:52macleo@gmail.com "欢迎与我联系")
+
+
 # License
 
 <pre>
