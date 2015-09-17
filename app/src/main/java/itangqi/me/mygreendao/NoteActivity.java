@@ -16,7 +16,6 @@ import java.util.List;
 
 import de.greenrobot.dao.query.Query;
 import de.greenrobot.dao.query.QueryBuilder;
-import me.itangqi.greendao.Note;
 import me.itangqi.greendao.NoteDao;
 
 
