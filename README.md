@@ -72,6 +72,8 @@ fork一下加入lib，自行研究研究了
 
 加入了Update的demo，itemClick update，itemLongClick delete
 
+<img src="device-2015-09-17-143916.png" width="400" height="640">
+
 - modified ： macleo
 - Gmail ： [52macleo#gmail.com](mailto:52macleo@gmail.com "欢迎与我联系")
 
